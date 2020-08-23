@@ -18,7 +18,7 @@ So... the rule makes the sand atom fall down if there's an empty space below it.
 
 ## Try it out
 The easiest way to try out SpaceTode is by using the [SandPond engine](https://github.com/l2wilson94/SandPond).<br>
-You can follow [this guide](https://github.com/l2wilson94/SandPond/wiki/Writing-your-first-element) on how to write your first element.<br>
+You can follow [this guide](https://github.com/l2wilson94/SandPond/wiki/Making-your-first-element) on how to write your first element.<br>
 You can read the [SpaceTode documentation](https://github.com/l2wilson94/SandPond/wiki/SpaceTode-Documentation) to learn more about the language.<br>
 
 Advanced: To implement SpaceTode in your own project, add these script tags.
