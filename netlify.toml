@@ -1,0 +1,5 @@
+[[redirects]]
+	from = "/"
+	to = "Build/SpaceTode.js"
+	status = 200
+	
