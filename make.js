@@ -19,6 +19,7 @@ const readFile = async (path) => {
 	source += fileSource
 }
 
+await readFile("Source/SpaceTode.js")
 await readFile("Source/EventWindow.js")
 await readFile("Source/Symmetry.js")
 await readFile("Source/Element.js")
