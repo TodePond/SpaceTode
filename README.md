@@ -17,10 +17,9 @@ In this example, the `_` represents an empty space.<br>
 So... the rule makes the sand atom fall down if there's an empty space below it.<br>
 
 ## Try it out
-SpaceTode is used by the [SandPond engine](https://github.com/l2wilson94/SandPond).<br>
-You can try it out at [www.sandpond.cool](https://www.sandpond.cool).<br>
+The easiest way to try out SpaceTode is by using the [SandPond engine](https://github.com/l2wilson94/SandPond).<br>
 
-To use SpaceTode in your own project, add these script tags:
+Advanced: To implement SpaceTode in your own project, add these script tags.
 ```html
 <script src="https://habitat.todepond.cool"></script>
 <script src="https://habitat.todepond.cool/Build/EatLegacy.js"></script>
