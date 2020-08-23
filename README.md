@@ -18,7 +18,7 @@ So... the rule makes the sand atom fall down if there's an empty space below it.
 
 ## Try it out
 SpaceTode is used by the [SandPond engine](https://github.com/l2wilson94/SandPond).<br>
-You can try it out at (www.sandpond.cool)[https://www.sandpond.cool].<br>
+You can try it out at [www.sandpond.cool](https://www.sandpond.cool).<br>
 
 To use SpaceTode in your own project, add these script tags:
 ```html
