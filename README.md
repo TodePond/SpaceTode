@@ -1,7 +1,7 @@
 # SpaceTode
 SpaceTode is a spatial programming language.<br>
 It can make it easier to program how atoms behave.<br>
-SpaceTode is used by the [SandPond engine](https://github.com/l2wilson94/SandPond).
+SpaceTode is used by the [SandPond engine](https://github.com/l2wilson94/SandPond).<br>
 The language is heavily inspired by [SPLAT](https://github.com/DaveAckley/SPLAT/).<br>
 
 ## What does it look like?
