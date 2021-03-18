@@ -20,13 +20,4 @@ So... the rule makes the sand atom fall down if there's an empty space below it.
 
 ## Try it out
 The easiest way to try out SpaceTode is by using the [SandPond engine](https://github.com/l2wilson94/SandPond).<br>
-You can follow [this guide](https://github.com/l2wilson94/SandPond/wiki/Making-your-first-element) on how to write your first element.<br>
-You can read the [SpaceTode documentation](https://github.com/l2wilson94/SandPond/wiki/%5BSpaceTode%5D-Documentation) to learn more about the language.<br>
-
-Advanced: To implement SpaceTode in your own project, add these script tags.
-```html
-<script src="https://habitat.todepond.cool"></script>
-<script src="https://habitat.todepond.cool/Build/EatLegacy.js"></script>
-<script src="https://spacetode.todepond.cool"></script>
-```
-It doesn't work any other way at the moment (eg: `import`) but I hope to change that in the future.
+You can read the [SpaceTode documentation](https://l2wilson94.gitbook.io/spacetode/) to learn more about the language.<br>
