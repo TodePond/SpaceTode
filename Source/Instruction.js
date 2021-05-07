@@ -16,7 +16,7 @@ const INSTRUCTION = {}
 INSTRUCTION.TYPE = {}
 INSTRUCTION.make = (name, generate = () => { throw new Error(`[SpaceTode] The ${name} instruction is not supported yet`) }) => ({name, generate})
 
-{
+;{
 	
 	INSTRUCTION.TYPE.MIMIC = INSTRUCTION.make("Mimic", (template, targetGetter, instructions, spotMods = [], chunkMods = [], symmetry, symmetryId, forSymmId, char, diagramId, isAll) => {
 		const target = targetGetter()
