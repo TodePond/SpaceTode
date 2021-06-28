@@ -287,7 +287,7 @@
 	//===========//
 	// SpaceTode //
 	//===========//
-	function SpaceTode([source]) {
+	SpaceTode = ([source]) => {
 	
 		resetIndentInfo()
 	
