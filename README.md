@@ -2,9 +2,10 @@
 
 # SpaceTode
 SpaceTode is a spatial programming language.<br>
-It can make it easier to program how atoms behave.<br>
-SpaceTode is used by the [SandPond engine](https://github.com/l2wilson94/SandPond).<br>
-The language is heavily inspired by [SPLAT](https://github.com/DaveAckley/SPLAT/).<br>
+I use it to make new elements in the [SandPond engine](https://github.com/l2wilson94/SandPond).<br>
+It is heavily inspired by [SPLAT](https://github.com/DaveAckley/SPLAT/).<br>
+
+**For more info, check out the [SandPond Saga video series](https://youtube.com/c/TodePond).**
 
 ## What does it look like?
 You draw spatial rules for atoms to follow, like this one:
@@ -20,4 +21,4 @@ So... the rule makes the sand atom fall down if there's an empty space below it.
 
 ## Try it out
 The easiest way to try out SpaceTode is by using the [SandPond engine](https://github.com/l2wilson94/SandPond).<br>
-You can read the [SpaceTode documentation](https://l2wilson94.gitbook.io/spacetode/) to learn more about the language.<br>
+You can read the [SpaceTode Documentation](https://l2wilson94.gitbook.io/spacetode/) to learn more about the language.<br>
