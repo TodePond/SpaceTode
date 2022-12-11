@@ -1,4 +1,4 @@
-<img align="right" height="100" src="http://todepond.com/IMG/SpaceTode@0.25x.png">
+<img align="right" height="100" src="http://img.todepond.com/IMG/SpaceTode@0.25x.png">
 
 # SpaceTode
 SpaceTode is a spatial programming language.<br>
